@@ -6,9 +6,9 @@
 A lightweight Convolutional Autoencoder for recognizing Bangla font styles along with int8 quantization for deploying resource-constrained IoT devices. 
 
 Sample Data - 
-<img src="[drawing.jpg](https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample01.jpg)" alt="sample_data" width="200"/>
-<img src="[drawing.jpg](https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample02.jpg)" alt="sample_data" width="200"/>
-<img src="[drawing.jpg](https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample03.jpg)" alt="sample_data" width="200"/>
+<img src="https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample01.jpg" alt="sample_data" width="200"/>
+<img src="https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample02.jpg" alt="sample_data" width="200"/>
+<img src="https://github.com/moshiurtonmoy/Bangla-Visual-Font-Style-Recognition-with-Lightweight-Convolutional-Autoencoder/blob/master/sample_data/sample03.jpg" alt="sample_data" width="200"/>
 
 
 Full Dataset is available on [**Kaggle**](https://www.kaggle.com/datasets/moshiurtonmoy/)
