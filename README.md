@@ -17,9 +17,3 @@ Full Dataset is available on [**Kaggle**](https://www.kaggle.com/datasets/moshiu
 To be added.....
 ```
 <hr/>
-
-**Contact**
-`moshiurtonmoy.bb@gmail.com`
-
-**License**
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
