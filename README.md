@@ -14,7 +14,7 @@ quantization.
 <br/>
 <br/>
 
-The work has been published in _**IEEE Open Journla of the Computer Society**_ and the full article can be accessed publicly from <a target='_blank' href="https://ieeexplore.ieee.org/abstract/document/10475431"> IEEE Xplore </a>.
+The work has been published in _**IEEE Open Journal of the Computer Society**_ and the full article can be accessed publicly from <a target='_blank' href="https://ieeexplore.ieee.org/abstract/document/10475431"> IEEE Xplore </a>.
 
 # Dataset
 Experimental data is publicly available in <a target="_blank" href="https://data.mendeley.com/datasets/cnd2wh65my/1"> Mendeley Data </a>.
